@@ -3,7 +3,7 @@ package Lecture._3_Encapsulation_CatApp
 // This file demonstrates OBJECTS and encapsulation behaviour
 fun main() {
 
-    /* sniffy is an OBJECT (instance) of the Cat class.
+    /* sniffy is an OBJECT (instance) of the Cat.kt class.
         We create it by calling the constructor. */
     val sniffy = _root_ide_package_.Lecture._3_Encapsulation_CatApp.Cat("Sniffy", 5, 7)
 

@@ -3,7 +3,7 @@ package Lecture._4_CustomSetter_CatApp
 // This file demonstrates how the custom setter works
 fun main() {
 
-    // OBJECT CREATION: sniffy is an object of the Cat class.
+    // OBJECT CREATION: sniffy is an object of the Cat.kt class.
     val sniffy = _root_ide_package_.Lecture._4_CustomSetter_CatApp.Cat("Sniffy", 5, 7)
 
     // Accessing the public property

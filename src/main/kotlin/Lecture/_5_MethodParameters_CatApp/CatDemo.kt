@@ -6,7 +6,7 @@ fun main() {
     val sniffy = _root_ide_package_.Lecture._5_MethodParameters_CatApp.Cat("Sniffy", 10, 15)
 
     /* ARGUMENT vs PARAMETER:
-        distance (in Cat class) → PARAMETER
+        distance (in Cat.kt class) → PARAMETER
         5 and 3 below → ARGUMENTS */
 
     sniffy.walk(5)     // 5 is an argument

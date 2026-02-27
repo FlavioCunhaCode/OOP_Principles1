@@ -1,9 +1,9 @@
 package Lecture._1_ClassAndObject_CatApp
 
-// This file contains the Cat CLASS (the blueprint)
+// This file contains the Cat.kt CLASS (the blueprint)
 class Cat(val name: String, var age: Int, var weight: Int) {
     /* CLASS: A class is a blueprint for creating objects.
-        Here, Cat is the blueprint for all cats we create.*/
+        Here, Cat.kt is the blueprint for all cats we create.*/
 
     /* PRIMARY CONSTRUCTOR: The parameters (name, age, weight)
         are defined immediately after the class name.*/
